@@ -1,0 +1,8 @@
+Pour afficher la console git 
+1-sélectionner le dossier principale de votre tp avec la touche droit de la souris
+2-sélectionner <ouvrir dans le terminal intégré
+3-Créer un dépôt avec la commande <git init>
+4-Dans l'exploratuer pour voir le dossier .git(qu'on appelle le dépôt) , il faut sélectionner l'option affichage / élément masquer pour avoir se dossier
+si la commande git n'est pas reconnue il faut installer git 
+chercher<git download>
+télécharger la version 64 bits
